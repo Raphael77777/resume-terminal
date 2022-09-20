@@ -19,10 +19,18 @@
   },
   "homepage": "https://github.com/Raphael77777/resume-terminal#readme",
   "devDependencies": {
+    "@parcel/packager-raw-url": "^2.0.0",
+    "@parcel/transformer-sass": "^2.0.0",
+    "@parcel/transformer-webmanifest": "^2.0.0",
+    "cssnano": "^5.0.8",
+    "parcel": "^2.0.0",
+    "parcel-reporter-static-files-copy": "^1.3.4",
+    "prettier": "2.4.1",
     "sass": "^1.54.9"
   },
   "dependencies": {
     "canvas-confetti": "^1.5.1",
-    "fireworks-js": "^2.0.2"
+    "fireworks-js": "^2.0.2",
+    "postcss": "^8.3.11"
   }
 }
